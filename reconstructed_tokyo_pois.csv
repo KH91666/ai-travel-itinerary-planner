@@ -1,0 +1,11 @@
+id,name,latitude,longitude,open_time,close_time,duration_minutes,priority,area,category,fixed_date,fixed_time
+tsukiji,Tsukiji Outer Market,35.6655,139.7707,08:00,14:00,90,3,Central Tokyo,Food,,
+teamlab,teamLab Planets,35.6491,139.7898,09:00,22:00,120,3,Bay Area,Museum,2026-09-20,15:00
+akihabara,Akihabara Electric Town,35.6984,139.7730,10:00,21:00,120,3,East Tokyo,Shopping,,
+asakusa,Senso-ji,35.7148,139.7967,06:00,17:00,90,2,East Tokyo,Culture,,
+ueno,Ueno Park,35.7148,139.7745,05:00,23:00,120,2,East Tokyo,Park,,
+shibuya,Shibuya Crossing,35.6595,139.7005,00:00,23:59,60,2,West Tokyo,Sightseeing,,
+meiji,Meiji Shrine,35.6764,139.6993,05:00,18:00,90,2,West Tokyo,Culture,,
+shinjuku,Tokyo Metropolitan Government Building,35.6896,139.6921,09:30,22:00,75,1,West Tokyo,Viewpoint,,
+odaiba,Odaiba Seaside Park,35.6291,139.7756,00:00,23:59,90,1,Bay Area,Park,,
+imperial,Imperial Palace East Gardens,35.6852,139.7528,09:00,16:30,90,1,Central Tokyo,Culture,,
